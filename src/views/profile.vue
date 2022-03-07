@@ -22,8 +22,6 @@
         <Experience></Experience>
         <!--========== CERTIFICATES ==========-->
         <Certificates></Certificates>
-        <!--========== REFERENCES ==========-->
-        <References></References>
         <!--========== LANGUAGES ==========-->
         <Languages></Languages>
         <!--========== INTERESTS ==========-->

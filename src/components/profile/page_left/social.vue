@@ -3,7 +3,7 @@
     <h2 class="section-title">SOCIAL</h2>
 
     <div class="social__container bd-grid">
-      <a href="https://www.linkedin.com/" target="_blank" class="social__link">
+      <a href="https://www.linkedin.com/in/hung-hsiang-hsu-76072a168/" target="_blank" class="social__link">
         <i class='bx bxl-linkedin-square social__icon'></i>
         @linkedin
       </a>

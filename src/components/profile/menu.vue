@@ -1,7 +1,7 @@
 <template>
   <header class="l-header" id="header">
     <nav class="nav bd-container">
-      <a href="#" class="nav__logo">Smith</a>
+      <a href="#" class="nav__logo">Mike Hsu</a>
       <div :class="['nav__menu' , {'show-menu': showMenu}]" id="nav-menu">
         <ul class="nav__list">
           <li class="nav__item"  v-for="nav in nav_list">

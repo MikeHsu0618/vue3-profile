@@ -10,22 +10,9 @@
         </div>
 
         <div class="education__data bd-grid">
-          <h3 class="education__title">MASTER OF DESIGN</h3>
-          <span class="education__studies">University of Studies</span>
-          <span class="education__year">2010 - 2015</span>
-        </div>
-      </div>
-
-      <div class="education__content">
-        <div class="education__time">
-          <span class="education__rounder"></span>
-          <span class="education__line"></span>
-        </div>
-
-        <div class="education__data bd-grid">
-          <h3 class="education__title">WEB DEVELOPER</h3>
-          <span class="education__studies">Institute Studies</span>
-          <span class="education__year">2016 - 2019</span>
+          <h3 class="education__title">Southwest Minnesota State University</h3>
+          <span class="education__studies">MBA</span>
+          <span class="education__year">2017 - 2018</span>
         </div>
       </div>
 
@@ -36,9 +23,9 @@
         </div>
 
         <div class="education__data bd-grid">
-          <h3 class="education__title">MASTER IN UI/UX</h3>
-          <span class="education__studies">Institute Studies</span>
-          <span class="education__year">2019 - 2021</span>
+          <h3 class="education__title">Ming Chang University</h3>
+          <span class="education__studies">Insurance and Risk Management</span>
+          <span class="education__year">2013 - 2017</span>
         </div>
       </div>
     </div>
